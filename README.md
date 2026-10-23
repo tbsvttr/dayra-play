@@ -8,4 +8,4 @@ cleanses corruption, and awakens as an Aasimar.
 This repository contains the compiled browser game and its third-party notices.
 The game's source repository remains private.
 
-Published release: build-a531ad7078d8
+Published release: build-d5734b44a517
